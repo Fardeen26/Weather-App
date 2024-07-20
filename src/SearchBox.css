@@ -1,0 +1,26 @@
+.SearchBox {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: white !important;
+}
+
+.searchinput {
+    padding: 15px;
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    color: black !important;
+}
+
+#fullWidth {
+    width: 20rem;
+    color: white;
+}
+
+.button {
+    font-size: 10px !important;
+    margin-top: 5px !important;
+    margin-bottom: 15px !important;
+}

@@ -1,0 +1,12 @@
+.card {
+    border: 1px solid black;
+}
+
+.InfoBox {
+    display: flex;
+    justify-content: center;
+}
+
+.search-card {
+    border-radius: 10px !important;
+}
